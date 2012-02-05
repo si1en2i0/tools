@@ -67,7 +67,7 @@ VERSION:3.0
 N:{$contact['name1']};{$contact['name2']};;;
 FN:{$fullname}
 {$tels}
-END:VCARD\n\n
+END:VCARD
 EOT;
 	
 	// 同步推只支持导入GBK编码的VCF
